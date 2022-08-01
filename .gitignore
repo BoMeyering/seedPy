@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#image directory
+src/seedPy/images
+src/seedPy/contour_output
+src/seedPy/detected_circles
+src/seedPy/output
+#file directory
+src/seedPy/measurement_files
